@@ -1,0 +1,31 @@
+{
+  "furnitura": [
+    {
+      "img": "https://images.unsplash.com/photo-1532103054090-3491f1a05d0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fG1vZGVybiUyMGZ1cm5pdHVyYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "type": "Living Room",
+      "title": "Wooden Bookshelf",
+      "subtitle": "Combination of wood and wool",
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...",
+      "price": 62.23,
+      "id": "1"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1535799695145-f3849086ee3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fG1vZGVybiUyMGZ1cm5pdHVyYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "type": "Chair",
+      "title": "Arm Chair",
+      "subtitle": "Combination of wood and wool",
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...",
+      "price": 63.47,
+      "id": "2"
+    },
+    {
+      "img": "https://www.estre.in/cdn/shop/files/1-min_1a7b23d8-e00c-4bca-86fe-9c65a55bcd1d.jpg?v=1710413752",
+      "type": "Sofa",
+      "title": "Sofa Empuk Banget",
+      "subtitle": "Using kapuk randu material",
+      "text": "Faucibus facilisi morbi pharetra quis sed. Vitae suspendisse facilisis facilisis ligula felis et a parturient aenean. Ac maecenas ultricies felis risus scelerisque duis posuere...",
+      "price": "65",
+      "id": "4"
+    }
+  ]
+}
